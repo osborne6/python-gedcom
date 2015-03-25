@@ -1,4 +1,6 @@
-A python module for parsing, analyzing, and manipulating GEDCOM files.
+# python-gedcom
+
+A python module for parsing, analyzing, and manipulating GEDCOM files (with some changes for python3).
 
 GEDCOM files contain ancestry data, the GEDCOM 5.5 format is detailed here:
 http://homepages.rootsweb.ancestry.com/~pmcbride/gedcom/55gctoc.htm
